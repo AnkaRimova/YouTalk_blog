@@ -721,7 +721,7 @@ footer {
 }
 
 .footer-subscribe-button {
-	background-image: url(/source/icons/arrow-botton.svg);
+	background-image: url(../source/icons/arrow-botton.svg);
 	width: 64px;
 	height: 48px;
 	border: none;
